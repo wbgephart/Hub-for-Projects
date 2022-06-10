@@ -4,6 +4,6 @@ This repository is meant to act as a hub to link to various personal projects de
 
 # Personal Projects
 
-* [SQL Covid Project](https://github.com/wbgephart/PortfolioProjects/tree/main/CovidProject)
+* [Covid Project in SQL](https://github.com/wbgephart/PortfolioProjects/tree/main/CovidProject)
 * [Covid Project Tableau Visualization](https://public.tableau.com/app/profile/william.gephart/viz/CovidProject_16548318031930/Dashboard1)
-* [SQL Nashville Housing Data Cleaning Project](https://github.com/wbgephart/PortfolioProjects/tree/main/NashvilleHousingProject)
+* [Nashville Housing Data Cleaning Project in SQL](https://github.com/wbgephart/PortfolioProjects/tree/main/NashvilleHousingProject)
